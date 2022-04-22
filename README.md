@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
     <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" 
-width="95%" > 
+width="97%" > 
 </h2>
 
 <a href="https://github.com/xkidcatx">

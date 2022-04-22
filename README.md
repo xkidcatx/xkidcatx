@@ -19,7 +19,6 @@ width="98%" >
          src="https://github-readme-streak-stats.herokuapp.com/?user=xkidcatx&theme=tokyonight&hide_border=true" 
          />
 &nbsp;
-&nbsp;
     
 ## Frameworks ⚙️
 <img align="left" alt="CocoaTouch" height="36px" src="https://github.com/xkidcatx/xkidcatx/blob/main/Assets/cocoatouch.png?raw=true" />
@@ -28,3 +27,16 @@ width="98%" >
 <img align="left" alt="AVFoundation" height="36px" src="https://github.com/xkidcatx/xkidcatx/blob/main/Assets/avfoundation.png?raw=true" />
 <img align="left" alt="SpriteKit" height="36px" src="https://github.com/xkidcatx/xkidcatx/blob/main/Assets/spritekit.png?raw=true" />
 <img align="left" alt="Firebase" height="36px" src="https://github.com/xkidcatx/xkidcatx/blob/main/Assets/firebase.png" />
+
+&nbsp;
+&nbsp;
+    
+    
+## Where to find me 🔍 
+    
+[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/xkidcatx)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/xkidcatx)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://tlgg.ru/xkidcatx)
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/xkidcatx)
+[<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/87ax4q4tuskdywjsg0sj931ku?si=fQJWqxUsQIK8HZNE2_5QlQ) 
+

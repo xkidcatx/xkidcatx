@@ -27,7 +27,7 @@ width="98%" >
 <img align="left" alt="AVFoundation" height="36px" src="https://github.com/xkidcatx/xkidcatx/blob/main/Assets/avfoundation.png?raw=true" />
 <img align="left" alt="SpriteKit" height="36px" src="https://github.com/xkidcatx/xkidcatx/blob/main/Assets/spritekit.png?raw=true" />
 <img align="left" alt="Firebase" height="36px" src="https://github.com/xkidcatx/xkidcatx/blob/main/Assets/firebase.png" />
-
+<img align="left" alt="CoreML" height="36px" src="https://github.com/xkidcatx/xkidcatx/blob/main/Assets/coreml.png" />
 &nbsp;
 &nbsp;
     

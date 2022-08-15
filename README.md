@@ -39,4 +39,9 @@ width="98%" >
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://tlgg.ru/xkidcatx)
 [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/xkidcatx)
 [<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/87ax4q4tuskdywjsg0sj931ku?si=fQJWqxUsQIK8HZNE2_5QlQ) 
+&nbsp;
+
+## Achievements 🏆
+<img src="https://user-images.githubusercontent.com/100476727/184662766-0d56930b-1238-45ec-aaa3-74e3cce3ec3b.png" 
+width="50%" > 
 
